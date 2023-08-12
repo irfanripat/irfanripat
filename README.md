@@ -1,11 +1,14 @@
-### Assalamualaikum, Irfan here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+# Greetings, I'm Irfan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a Native Android Engineer with 1+ year of experience using often `Kotlin` and sometimes `Java` to build android apps.
+Welcome to my corner of the digital realm. I'm an explorer of code and a creator of solutions. My journey began as a Native Android Engineer, where I harnessed the power of Kotlin and Java to breathe life into captivating Android applications. I contributed to enhancing the user experience through innovative features, shaping the technology that drives our digital world.
 
+## Embracing the Backend Adventure
 
-Currently, learn and work at Waresix as Android Engineer Intern, contribute to develop new feature called 'Learning Center' on [Waresix Driver App](https://play.google.com/store/apps/details?id=com.waresix.freight.driver), and currently working with team to develop new Waresix App such as [Waresix FE App V.3](https://play.google.com/store/apps/details?id=com.waresix.wos.fe) and [Waresix Transporter App V.3](https://play.google.com/store/apps/details?id=com.waresix.wos.transporter).
+In my relentless pursuit of growth, I've embarked on a thrilling chapter of my career. At Waresix, I've gracefully transitioned into the realm of Backend Engineering. Currently, I'm an integral part of a dynamic team responsible for overseeing and optimizing various services that drive core processes within our company. With Golang as my trusty tool, I'm weaving together the threads of front-end and back-end intricately, delivering seamless and efficient experiences to our users.
 
-Due to regulations of the company I currently work at (this is also the reason why my personal account doesn't have much activity 🥲), [I have another GitHub account](https://github.com/iripat)
+## Let's Connect!
 
-### 💬 Get in touch!
 - Linkedin: [in/irfanripat](https://linkedin.com/in/irfanripat)
+
+The journey of engineering is an exhilarating one, and I'm thrilled to be at the intersection of Android and Backend, innovating and engineering solutions that make a difference.
+
